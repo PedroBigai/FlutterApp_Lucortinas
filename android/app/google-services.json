@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "810445252188",
+    "firebase_url": "https://flutter-firebase-db-c5531-default-rtdb.firebaseio.com",
+    "project_id": "flutter-firebase-db-c5531",
+    "storage_bucket": "flutter-firebase-db-c5531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810445252188:android:60709ae2dfb78e65dc6899",
+        "android_client_info": {
+          "package_name": "com.example.cortinas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIXLhTzPuKKXrnlXjyND8H_DYH98jLDNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
